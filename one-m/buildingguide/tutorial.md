@@ -6,8 +6,8 @@ First o all, you should be aware of the size and resolution you want. For this a
 Calculate the Z resolution:
 
 We just designed a calculator at the tools section.
+http://www.openajet.com/tools
 
-Z Resolution Calculator
 To get your Z resolution, you need to know how far your building platform increases per turn of the screw. In my tutorial we use a 3mm screw. Lets assume you use the recommendet setup using a 400 Stepps stepper equipped with a 1/27 gear ratio.
 3MM / 400Stepps / 27 = 0,00027mm / Stepp.
 
@@ -16,7 +16,7 @@ So the AJET ONE-M will have a theoretical Z resolution up to 0,27 micron. Due to
 Calculate the XY resolution:
 
 We just designed a handy calculator for this:
-XY Resolution Calculator
+http://www.openajet.com/tools
 
 Buildsurface width / projector resolution. For example: 400mm/4000px = 100 micron
 If you want to use a SLA Laser unit you need to do other calculations to get you XY resolution.
