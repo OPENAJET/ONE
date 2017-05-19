@@ -24,7 +24,7 @@ I decided to develop a professional version of the AJET, the AJET Per. Because t
 It was an aim that nearly everybody can afford the AJET and now this becomes true.
 I hope that together with the community wonderful project originates.
 
-#The AJET
+# The AJET
  
 
 The AJET was designed as a professional printer for serial production. The main reason was that everyone can afford this printer.After it became clear that a serial production would be too expensive I decided to make this printer available as OPEN SOURCE.
