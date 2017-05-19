@@ -47,3 +47,5 @@ Z Resolution:
 Standard setup is able to do resolutions under 1 micron.
 
 Normal prints should be done from 5 micron to 100 micron
+
+# Home of AJET: openajet.com
